@@ -1,5 +1,7 @@
 # Hello World with React boilerplate
 
+- Boilerplate: https://github.com/4GeeksAcademy/react-hello
+  
 Start coding a react application
 
 > If you are working locally instead of using codespaces or gitpod, please follow [local installation steps](#local-installation-skip-if-you-are-working-on-codespaces-or-gitpod) and come back to this part of the readme.
