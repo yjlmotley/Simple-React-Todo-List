@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-
+import "../../styles/indexSimple.css";
 
 
 //create your first component

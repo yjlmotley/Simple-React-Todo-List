@@ -19,7 +19,7 @@ const Home = () => {
 
 	return (
 		<div className="container">
-			<h1 className="text-center mt-5">todos</h1>
+			<h1 className="text-center">todos</h1>
 			<div className="card todo-card mx-auto mt-5" style={{ maxWidth: "800px" }}>
 				<ul className="list-group list-group-flush">
 					<li className="list-group-item">
